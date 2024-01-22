@@ -19,6 +19,7 @@ h1{
     font-family: "Libre Baskerville", serif;
     font-weight: 400;
     margin-bottom: 10px;
+    text-transform: capitalize;
 }
 
 p{
