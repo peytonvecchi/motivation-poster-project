@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+img{
+
+    /*image is 1000 x 1704*/
+    height: 40%;
+    width: 40%;
+    
+    
+}
+
+h1{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+}
